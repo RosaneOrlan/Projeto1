@@ -1,2 +1,2 @@
-# Projeto1
-Primeiro repositório do GitHub
+# Projeto 1
+Primeiro repositório do GitHub feito esta semana.
